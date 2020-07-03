@@ -41,4 +41,5 @@ def play
   until count == 9
     count+=1
     turn(board)
+  end
 end
